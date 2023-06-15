@@ -1,3 +1,6 @@
+
+![eth-btc](https://github.com/Danbethwel/Bitcoin-Ethereum/assets/93147941/8562c3b5-0668-46ca-8dc3-33de54e4a9ad)
+
 # Bitcoin-Ethereum
 Bitcoin is a decentralized digital currency that was created in 2009 by an unknown person or group of people using the pseudonym Satoshi Nakamoto. It operates on a peer-to-peer network without the need for a central authority or intermediary.
 
